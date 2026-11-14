@@ -1,0 +1,6 @@
+Copyright © 2026 Python1738. All rights reserved.
+
+This software and associated documentation files (the "Software") are the intellectual property of Python1738. 
+
+Strictly Confidential. Unauthorized copying, distribution, modification, 
+or public display of this Software, via any medium, is strictly prohibited.
