@@ -1,6 +1,11 @@
 Copyright © 2026 Python1738. All rights reserved.
 
-This software and associated documentation files (the "Software") are the intellectual property of Python1738. 
+This software and its associated documentation files (the "Software") are the intellectual property of Python1738.
 
-Strictly Confidential. Unauthorized copying, distribution, modification, 
-or public display of this Software, via any medium, is strictly prohibited.
+Publicly available through the official GitHub repository, the Software may be downloaded, installed, and used solely for its intended purpose.
+
+Strictly Prohibited: Unauthorized copying, redistribution, modification, reverse engineering, creation of derivative works, sublicensing, or public display of the Software, in whole or in part, via any medium, without explicit written permission from Python1738.
+
+The official GitHub repository is the only authorized public distribution source unless otherwise explicitly permitted by Python1738.
+
+All rights not expressly granted herein are reserved by the copyright holder.
