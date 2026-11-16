@@ -11,3 +11,10 @@ READ THE LICENSE BEFORE DOWNLOADING OR USING THE GAME.
 Unauthorized redistribution, modification, or distribution of the game is prohibited.
 
 All rights reserved. Copyright © 2026 Python1738.
+
+WARNING ONLY SUPPORTS WINDOWS
+Because for some reason I can compile for macOS
+
+Extra note:
+Don't read the commit messages for version information they are incorrect.
+Use the releases to read about each version.
